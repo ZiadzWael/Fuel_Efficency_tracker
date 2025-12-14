@@ -5,12 +5,11 @@ This project provides a dual-approach solution for fuel efficiency monitoring:
 - A **manual fuel tracking tool** for user-input data.
 - **Machine learning models** to predict fuel efficiency using historical fleet data.
 
-Developed by **Sama Mohamed Eldessouky** and **Ziad Wael Reda** (Nile University).
+Developed by **Ziad Wael** and **Sama Mohamed Eldessouky** (Nile University).
 
 ## Repository Structure
 - `MLpreproc.ipynb` – Data preprocessing and cleaning pipeline
 - `MLmodels.ipynb` – Implementation and evaluation of ML models
-- `MLpaper.doc` – Project paper documenting methodology and results
 - `README.md` – This file
 
 ## Dataset
